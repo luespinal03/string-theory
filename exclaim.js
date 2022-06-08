@@ -7,10 +7,7 @@ if (str[i] === "?" || str[i] === "."){
 } else {
     newStr = newStr  + str[i]
 }
-
-
 }  
-
     return newStr
 }
 
