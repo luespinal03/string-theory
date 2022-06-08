@@ -30,7 +30,7 @@ function vowels(str) {
 
     for (let i = 0; i < str.length; i++) {
         if (str[i] === "a" || str[i] === "e" || str[i] === "i" || str[i] === "o" || str[i] === "u") {
-            newStr = newStr + str[i]
+        newStr = newStr + str[i]
         } else {
             newStr = newStr + ""
         }
